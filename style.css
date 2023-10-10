@@ -24,6 +24,17 @@ body {
   border-radius: 2rem;
   opacity: 0.8;
 }
+.song-lyrics {
+  font-size: 15px;
+  max-width: 25em;
+  background-color: #ffffff;
+  padding: 1.5em;
+  top: 50%;
+  left: 50%;
+  box-shadow: 0.6em 1.2em 3em rgba(0, 0, 0, 0.25);
+  border-radius: 2rem;
+  opacity: 0.8;
+}
 img {
   width: 100%;
 }
